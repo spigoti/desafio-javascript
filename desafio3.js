@@ -4,7 +4,7 @@
     - Mostrar de forma crescente atraves do console.log() os numeros existentes 
       de 1 até o numero passado como parametro, incluindo 1 e o numero passado como parametro.
 */
-exports.showNumbers =
+exports.showNumbers = null
 
 /*
  2. Crie uma função com as seguintes características:
@@ -18,7 +18,7 @@ exports.showNumbers =
     - Deve ser feito atraves de um loop;
     - O numero ao ser identificado como par, deve ser imetiatamente mostrado.
 */
-exports.showPairNumbers =
+exports.showPairNumbers = null
 
 /*
  3. Crie uma função com as seguintes características:
@@ -26,4 +26,4 @@ exports.showPairNumbers =
     - Retornar um array apenas com os numeros que são pares;
     - Deve ser feito usando a função filter do array. Ex: numbers.filter(...).
 */
-exports.filterPairNumbers = 
+exports.filterPairNumbers = null

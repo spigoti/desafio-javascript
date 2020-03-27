@@ -3,7 +3,7 @@
     - A função deve receber 1 argumento que será uma palavra. Ex: Anderson;
     - Retornar a palava invertida. Ex: nosrednA
 */
-exports.invertWord =
+exports.invertWord = null
 
 /*
  2. Crie uma função com as seguintes características:
@@ -11,7 +11,7 @@ exports.invertWord =
     - Deve retornar true se a palavra for um palindromo;
     - Deve desconsiderar se a letra é maiuscula ou minuscula.
 */
-exports.isPalindrome = 
+exports.isPalindrome = null
 
 /*
  3. Crie uma função com as seguintes características:
@@ -22,4 +22,4 @@ exports.isPalindrome =
     - Deve retornar o resultado;
   OBS: Devem ser utilizados as funções necessarias de manipulação de array (push, shift, unshift, ...)
 */
-exports.fruits = 
+exports.fruits = null

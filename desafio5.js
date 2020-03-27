@@ -8,4 +8,4 @@
       - Se pesquisar: Queijo, queijo ou QuEiJo. O resultado deve ser "Encontrado"
 */
 
-exports.ingredientsFilter = 
+exports.ingredientsFilter = null

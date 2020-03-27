@@ -3,14 +3,14 @@
     - A função deve receber 2 argumentos;
     - O retorno das funcão deve ser a soma dos dois parametros passados.
 */
-exports.sum = 
-  
+exports.sum = null
+
 /*
  2. Crie uma função com as seguintes características:
     - A função deve receber 2 argumentos, nome e sobrenome;
     - O retorno das funcão deve ser juncão(cancatenacão) dos dois parametros passados e retonar o nome completo.
 */
-exports.fullname = 
+exports.fullname = null;
 
 /*
  3. Crie uma função com as seguintes características:
@@ -19,7 +19,7 @@ exports.fullname =
       - "Preencha todos os valores corretamente!"
     - O retorno da função deve ser a multiplicação dos 3 argumentos, somando `2` ao resultado da multiplicação.
 */
-exports.calculate = 
+exports.calculate = null
 
 /*
  4. Crie uma função com as seguintes características:
@@ -29,11 +29,11 @@ exports.calculate =
     - Se todos os argumentos forem passados, retorne a soma do primeiro com o segundo, e o resultado, dividido pelo terceiro.
     - Se nenhum argumento for passado, retorne o valor booleano `false`.
 */
-exports.calculatev2 = 
+exports.calculatev2 = null
 
 /*
  5. Crie uma função com as seguintes características:
     - A função deve receber 1 argumento;
     - O retorno das funcão deve ser um boolean indicando se o numero passado é um numero par ou não.
 */
-exports.isPair =
+exports.isPair = null
