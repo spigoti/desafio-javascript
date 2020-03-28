@@ -1,4 +1,6 @@
 // 1. Declare uma nova variável chamada `name` com o nome `Anderson` e exporte ela como `name`.
+const name = "Anderson";
+exports.name = name;
 
 // 2. Declare uma nova variável chamada `soma`, adicione uma instrução somando os valores 15 e 8, e exporte ela como `sum`.
 
