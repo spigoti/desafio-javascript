@@ -52,7 +52,7 @@ describe("Item 3", () => {
       "Preencha todos os valores corretamente!"
     );
   });
-  it('Funcão "calculate" deve retornar 5 ao serem passados os parametros (1, 1, 1) ', () => {
+  it('Funcão "calculate" deve retornar 3 ao serem passados os parametros (1, 1, 1) ', () => {
     expect(desafio.calculate(1, 1, 1)).toEqual(3);
   });
   it('Funcão "calculate" deve retornar a multiplicacão dos três parametros passados, somado de 2', () => {

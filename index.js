@@ -6,3 +6,11 @@
   desafio3.showNumbers(5)
   
 */
+
+const desafio2 = require('./desafio2.js');
+    console.log(desafio2.calculate(1, 1, 1));
+    console.log(desafio2.calculate(null));
+    console.log(desafio2.calculate());
+
+
+ 
